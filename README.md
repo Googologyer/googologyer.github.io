@@ -1,2 +1,2 @@
 # googologygithub.github.io
-我的博客页面
+如需查看我的博客页面，请前往[首页](index.html)。
